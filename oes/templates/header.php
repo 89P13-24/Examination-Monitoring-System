@@ -16,7 +16,7 @@
   		padding: 20px;
   	}
 	body{
-		background-image: url('images/img1.jpg'); /* URL of your image */
+		background-image: url('images/img3.jpg'); /* URL of your image */
       background-size: cover; /* Cover the entire background */
       background-repeat: no-repeat; /* Do not repeat the background image */
 	}
